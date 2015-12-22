@@ -1,5 +1,6 @@
 # Modification
 Added Crop Layers while BVLC Caffe didn't have for implementation FCN
+Fork from kashefy/caffe Branch:with_crop
 ##《Fully Convolutional Networks for Semantic Segmentation》
 
 # Caffe
