@@ -1,3 +1,7 @@
+# Modification
+Added Crop Layers while BVLC Caffe didn't have for implementation FCN
+##《Fully Convolutional Networks for Semantic Segmentation》
+
 # Caffe
 
 Caffe is a deep learning framework made with expression, speed, and modularity in mind.
